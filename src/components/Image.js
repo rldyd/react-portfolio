@@ -21,7 +21,6 @@ function Image() {
           functions and, most importantly, can manipulate all the backend
           components.
         </p>
-        <button className="btn">Dowonload Cv</button>
       </div>
     </div>
   );

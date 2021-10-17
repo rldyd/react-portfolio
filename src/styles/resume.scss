@@ -1,0 +1,59 @@
+.skills-container {
+  .skill-title {
+    font-size: 1.4rem;
+    font-weight: 400;
+  }
+
+  .skill-bar {
+    display: flex;
+    align-items: center;
+    .skill-text {
+    }
+    .skill-progress {
+      width: 100%;
+      .progress {
+        width: 100%;
+        height: 0.5rem;
+        background-color: red;
+        margin-left: 1rem;
+        background-color: #0381ff3f;
+        position: relative;
+        .inner-pregress {
+          position: absolute;
+          background-color: #037fff;
+          height: 100%;
+          bottom: 0;
+          left: 0;
+        }
+      }
+    }
+  }
+}
+
+.btn {
+  padding: 1rem 2rem;
+  background-color: rgb(82, 92, 226);
+  outline: none;
+  border: none;
+  font-family: inherit;
+  font-size: inherit;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+  letter-spacing: 2px;
+  margin-top: 1rem;
+  position: relative;
+  &::after {
+    width: 0;
+    height: 0.3rem;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    position: absolute;
+    content: "";
+    transition: all 0.5s ease-in-out;
+  }
+  &:hover::after {
+    width: 100%;
+  }
+}

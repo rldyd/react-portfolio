@@ -4,6 +4,7 @@ import HomePage from "./Pages/HomePage";
 import AboutPage from "./Pages/AboutPage";
 import PortfolioPage from "./Pages/PortfolioPage";
 import ContactPage from "./Pages/ContactPage";
+import ResumePage from "./Pages/ResumePage";
 import { Switch, Route } from "react-router-dom";
 import { useState } from "react";
 
@@ -34,6 +35,9 @@ function App() {
             </Route>
             <Route path="/portfolios" exact>
               <PortfolioPage />
+            </Route>
+            <Route path="/resume" exact>
+              <ResumePage />
             </Route>
             <Route path="/contact" exact>
               <ContactPage />
