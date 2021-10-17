@@ -1,5 +1,5 @@
 import React from "react";
-import about from "../img/aboutPic.png";
+import about from "../img/about-3.jpeg";
 
 function Image() {
   return (
@@ -13,13 +13,11 @@ function Image() {
           <span> Kyle Ahn</span>
         </h4>
         <p>
-          I am currently attending the GW Coding bootcamp. Now, a Full Stack
-          Developer is a software expert who's equally proficient in frontend
-          (client-side) development and backend (server-side) development. Full
-          Stack Developers are familiar with each layer of tech stacks that go
-          into the making of a software product. They know how each layer
-          functions and, most importantly, can manipulate all the backend
-          components.
+          Currently, I work as a mechanical & pumping estimator, and at the same
+          time, I am studying at full stack developer bootcamp at GWU. The
+          reason why I started studying Full stack developer is that I have a
+          more vision, and studying and working on coding gives me more
+          motivation and fun.
         </p>
       </div>
     </div>
