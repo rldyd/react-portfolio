@@ -8,8 +8,7 @@
 
 # Application Preview
 
-<img width="1440" alt="Screen Shot 2021-10-17 at 2 21 34 AM" src="https://user-images.githubusercontent.com/84109630/137614355-9ec90239-42df-45f6-81b9-7d258ae2ce68.png">
-
+<img width="1440" alt="Screen Shot 2021-10-17 at 11 20 19 AM" src="https://user-images.githubusercontent.com/84109630/137633784-317fb3b0-ae39-48f3-8a39-789142d77cd3.png">
 
 # Getting Started with Create React App
 
