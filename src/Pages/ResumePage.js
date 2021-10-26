@@ -16,6 +16,8 @@ function ResumePage() {
         <Skills skill={"Express"} progress={"70%"} width={"70%"} />
         <Skills skill={"MongoDB"} progress={"70%"} width={"70%"} />
         <Skills skill={"React Js"} progress={"65%"} width={"65%"} />
+        <Skills skill={"Redux"} progress={"65%"} width={"60%"} />
+        <Skills skill={"GraphQL"} progress={"65%"} width={"60%"} />
       </div>
       <button className="btn">Dowonload Resume</button>
     </div>
