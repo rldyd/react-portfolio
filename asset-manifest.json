@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.d2ec9115.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.46bea139.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.46bea139.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.1b89792c.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.1b89792c.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.7530632e.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7530632e.js.map",
     "static/js/2.38d53e1c.chunk.js": "/react-portfolio/static/js/2.38d53e1c.chunk.js",
@@ -12,6 +12,7 @@
     "static/js/2.38d53e1c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.38d53e1c.chunk.js.LICENSE.txt",
     "static/media/Book-Search.da53b71a.png": "/react-portfolio/static/media/Book-Search.da53b71a.png",
     "static/media/Project-2.049d31e9.png": "/react-portfolio/static/media/Project-2.049d31e9.png",
+    "static/media/Project3.97552a68.png": "/react-portfolio/static/media/Project3.97552a68.png",
     "static/media/Weather-Dashboard.e35d1950.png": "/react-portfolio/static/media/Weather-Dashboard.e35d1950.png",
     "static/media/Work-Day-Schedule.156181fe.png": "/react-portfolio/static/media/Work-Day-Schedule.156181fe.png",
     "static/media/about-3.d53e0727.jpeg": "/react-portfolio/static/media/about-3.d53e0727.jpeg",
@@ -25,6 +26,6 @@
     "static/js/runtime-main.7530632e.js",
     "static/js/2.38d53e1c.chunk.js",
     "static/css/main.d2ec9115.chunk.css",
-    "static/js/main.46bea139.chunk.js"
+    "static/js/main.1b89792c.chunk.js"
   ]
 }
