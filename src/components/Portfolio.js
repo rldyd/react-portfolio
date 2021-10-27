@@ -4,6 +4,7 @@ import project3 from "../img/portfolios/runbuddypic.png";
 import project4 from "../img/portfolios/Work-Day-Schedule.png";
 import project5 from "../img/portfolios/Book-Search.png";
 import project6 from "../img/portfolios/Weather-Dashboard.png";
+import project7 from "../img/portfolios/Project3.png";
 
 const portfolios = [
   {
@@ -53,6 +54,14 @@ const portfolios = [
     icon1: "Github",
     image: project6,
     title: "Weather Dashboard",
+  },
+  {
+    id: 7,
+    category: "MERN",
+    link1: "https://github.com/rldyd/Project_3",
+    icon1: "Github",
+    image: project7,
+    title: "Weightlifting Genie",
   },
 ];
 
