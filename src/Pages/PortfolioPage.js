@@ -30,7 +30,7 @@ function PortfoliosPage() {
       <div className="title">
         <Tittle title={"Portfolios"} span={"portfolios"} />
       </div>
-      <div className="portfolios-data">
+      <div className="portfolios-data" target="_blank">
         <Categories filter={filter} categories={categories} />
         <MenuItems menuItem={menuItems} />
       </div>

@@ -15,12 +15,24 @@ function HomePage() {
         </h1>
         <p className="homePageSub">Full Stack Developer</p>
         <div className="icons">
-          <Link to="" className="iconHolder">
+          <a
+            href="https://github.com/rldyd"
+            target="_blank"
+            className="iconHolder"
+          >
             <FontAwesomeIcon icon={faGithub} className="icon Github" />
-          </Link>
-          <Link to="" className="iconHolder">
+          </a>
+          <a
+            href="https://www.linkedin.com/in/kyle-ahn-277122212/"
+            target="_blank"
+            className="iconHolder"
+          >
             <FontAwesomeIcon icon={faLinkedin} className="icon Ln" />
-          </Link>
+          </a>
+
+          {/* <Link to="" className="iconHolder">
+            <FontAwesomeIcon icon={faLinkedin} className="icon Ln" />
+          </Link> */}
         </div>
       </header>
     </div>
